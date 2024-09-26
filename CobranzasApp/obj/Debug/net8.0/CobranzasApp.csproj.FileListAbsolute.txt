@@ -1,0 +1,73 @@
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\bin\Debug\net8.0\ClientesApp\angular.json
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\bin\Debug\net8.0\ClientesApp\package-lock.json
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\bin\Debug\net8.0\ClientesApp\package.json
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\bin\Debug\net8.0\ClientesApp\tsconfig.app.json
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\bin\Debug\net8.0\ClientesApp\tsconfig.json
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\bin\Debug\net8.0\ClientesApp\tsconfig.spec.json
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\bin\Debug\net8.0\CobranzasApp.staticwebassets.runtime.json
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\bin\Debug\net8.0\CobranzasApp.exe
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\bin\Debug\net8.0\CobranzasApp.deps.json
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\bin\Debug\net8.0\CobranzasApp.runtimeconfig.json
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\bin\Debug\net8.0\CobranzasApp.dll
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\bin\Debug\net8.0\CobranzasApp.pdb
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.AssemblyInfo.cs
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.RazorAssemblyInfo.cache
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.RazorAssemblyInfo.cs
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\staticwebassets\msbuild.CobranzasApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\staticwebassets\msbuild.build.CobranzasApp.props
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CobranzasApp.props
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CobranzasApp.props
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\scopedcss\bundle\CobranzasApp.styles.css
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\scopedcss\projectbundle\CobranzasApp.bundle.scp.css
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.dll
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\refint\CobranzasApp.dll
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.pdb
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.genruntimeconfig.cache
+C:\Users\DELL\Documents\PROYECTOS_NET\CobranzasApp\obj\Debug\net8.0\ref\CobranzasApp.dll
+D:\Documentos\PROYECTOS .NET\CobranzasApp\bin\Debug\net8.0\appsettings.Development.json
+D:\Documentos\PROYECTOS .NET\CobranzasApp\bin\Debug\net8.0\appsettings.json
+D:\Documentos\PROYECTOS .NET\CobranzasApp\bin\Debug\net8.0\CobranzasApp.staticwebassets.runtime.json
+D:\Documentos\PROYECTOS .NET\CobranzasApp\bin\Debug\net8.0\CobranzasApp.exe
+D:\Documentos\PROYECTOS .NET\CobranzasApp\bin\Debug\net8.0\CobranzasApp.deps.json
+D:\Documentos\PROYECTOS .NET\CobranzasApp\bin\Debug\net8.0\CobranzasApp.runtimeconfig.json
+D:\Documentos\PROYECTOS .NET\CobranzasApp\bin\Debug\net8.0\CobranzasApp.dll
+D:\Documentos\PROYECTOS .NET\CobranzasApp\bin\Debug\net8.0\CobranzasApp.pdb
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.AssemblyInfoInputs.cache
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.AssemblyInfo.cs
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.csproj.CoreCompileInputs.cache
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.RazorAssemblyInfo.cache
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.RazorAssemblyInfo.cs
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\staticwebassets\msbuild.CobranzasApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\staticwebassets\msbuild.build.CobranzasApp.props
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CobranzasApp.props
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CobranzasApp.props
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\scopedcss\bundle\CobranzasApp.styles.css
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\scopedcss\projectbundle\CobranzasApp.bundle.scp.css
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.dll
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\refint\CobranzasApp.dll
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.pdb
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.genruntimeconfig.cache
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\ref\CobranzasApp.dll
+D:\Documentos\PROYECTOS .NET\CobranzasApp\bin\Debug\net8.0\ClientesWeb\angular.json
+D:\Documentos\PROYECTOS .NET\CobranzasApp\bin\Debug\net8.0\ClientesWeb\package-lock.json
+D:\Documentos\PROYECTOS .NET\CobranzasApp\bin\Debug\net8.0\ClientesWeb\package.json
+D:\Documentos\PROYECTOS .NET\CobranzasApp\bin\Debug\net8.0\ClientesWeb\tsconfig.app.json
+D:\Documentos\PROYECTOS .NET\CobranzasApp\bin\Debug\net8.0\ClientesWeb\tsconfig.json
+D:\Documentos\PROYECTOS .NET\CobranzasApp\bin\Debug\net8.0\ClientesWeb\tsconfig.spec.json
+D:\Documentos\PROYECTOS .NET\CobranzasApp\obj\Debug\net8.0\CobranzasApp.sourcelink.json

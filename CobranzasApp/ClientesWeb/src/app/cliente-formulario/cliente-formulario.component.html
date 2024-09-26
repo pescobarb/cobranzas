@@ -1,0 +1,76 @@
+<p>Formulario de Ingreso</p>
+<form (ngSubmit)="onSubmit()" #clienteForm="ngForm">
+  <div>
+    <label for="id">Identificación:</label>
+    <input type="text" id="id" [(ngModel)]="cliente.id" name="id" required>
+  </div>
+
+  <div>
+    <label for="nombre">Nombre:</label>
+    <input type="text" id="nombre" [(ngModel)]="cliente.nombre" name="nombre" required>
+  </div>
+  <div>
+    <label for="banco">Banco:</label>
+    <input type="text" id="banco" [(ngModel)]="cliente.banco" name="banco" required>
+  </div>
+  <div>
+    <label for="numeroCuenta">Número de Cuenta:</label>
+    <input type="text" id="numeroCuenta" [(ngModel)]="cliente.numeroCuenta" name="numeroCuenta" required>
+  </div>
+
+  <div>
+    <label for="telefono">Teléfono:</label>
+    <input type="text" id="telefono" [(ngModel)]="cliente.telefono" name="telefono" required>
+  </div>
+  <div>
+    <label for="correo">Correo:</label>
+    <input type="text" id="correo" [(ngModel)]="cliente.correo" name="correo" required>
+  </div>
+
+  <div>
+    <label for="valorDeuda">Valor de la deuda:</label>
+    <input type="text" id="telefono" [(ngModel)]="cliente.valorDeuda" name="valorDeuda" required>
+  </div>
+
+  <div>
+    <label for="propuestaPago">Propuesta de Pago:</label>
+    <input type="text" id="propuestaPago" [(ngModel)]="cliente.propuestaPago" name="" required>
+  </div>
+  <div>
+    <button type="submit">Agregar Cliente</button>
+  </div>
+</form>
+<!-- cliente-form.component.html -->
+
+<h2>Lista de Clientes</h2>
+<ul>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Nombres Completos</th>
+        <th>Banco</th>
+        <th>Número Cuenta</th>
+        <th>Teléfono</th>
+        <th>Correo Electrónico</th>
+        <th>Valor Deuda</th>
+        <th>Propuesta de Pago</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let cliente of clientes">
+        <td>{{ cliente.id }}</td>
+        <td>{{ cliente.nombre }}</td>
+        <td>{{ cliente.banco }}</td>
+        <td>{{ cliente.numeroCuenta }}</td>
+        <td>{{ cliente.telefono }}</td>
+        <td>{{ cliente.correo }}</td>
+        <td>{{ cliente.valorDeuda }}</td>
+        <td>{{ cliente.propuestaPago }}</td>
+      </tr>
+    </tbody>
+  </table>
+
+
+</ul>
